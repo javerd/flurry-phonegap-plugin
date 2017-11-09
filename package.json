@@ -1,0 +1,19 @@
+{
+  "name": "flurry-phonegap-plugin",
+  "version": "1.0.1",
+  "description": "fork of plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddennis/flurry-phonegap-plugin.git"
+  },
+  "author": "'Dennis",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ddennis/flurry-phonegap-plugin/issues"
+  },
+  "homepage": "https://github.com/ddennis/flurry-phonegap-plugin#readme"
+}
